@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Good day! I am Yezun Chung from South Korea, who is interested in diverse development (e.g. web, android, ios, games). 
+Good day! I am Yezun Chung from South Korea, who is interested in diverse developments (e.g. web, android, ios, games). 
 
 If you want to contact me, please leave me a message!
 
