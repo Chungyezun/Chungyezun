@@ -25,7 +25,7 @@ If you want to contact me, please leave me a message!
 4. Software Oriented Institution Hackathon member (2021)
 
 
-## Languages and Tools
+## ✍️ Languages and Tools
 
 ![image](https://user-images.githubusercontent.com/47997077/123792104-3915b380-d91b-11eb-82ed-efd907f46f0c.png)
 ![image](https://user-images.githubusercontent.com/47997077/123792126-3dda6780-d91b-11eb-8e1e-7fdb4173d6ce.png)
