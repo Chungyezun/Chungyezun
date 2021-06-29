@@ -6,18 +6,24 @@ I'm trying hard to be a passionate and competent developer!
 
 If you want to contact me, please leave me a message!
 
-## 💼 Experience 
-1. KAIST Student Cultural Space Committee Development Team (2019-2021, 7th generation)
-2. KAIST Madcamp 9th generation (2019)
-3. KAIST Startup Support Program 1st generation (2021, Excellence prize - Team Beeble)
-4. Software Oriented Institution Hackathon member (2021)
-## Work
+## 👓 About me
 
 👯 I’m looking to collaborate on any passionate developers!
 
 📫 How to reach me maple0729@kaist.ac.kr
 
 👨‍💻 All of my projects are available at https://github.com/Chungyezun
+
+ [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006482982570)](https://www.facebook.com/profile.php?id=100006482982570)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maple07291@gmail.com)](mailto:maple07291@gmail.com)
+   [![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yezun_/)](https://www.instagram.com/yezun_/)
+
+## 💼 Experience 
+1. KAIST Student Cultural Space Committee Development Team (2019-2021, 7th generation)
+2. KAIST Madcamp 9th generation (2019)
+3. KAIST Startup Support Program 1st generation (2021, Excellence prize - Team Beeble)
+4. Software Oriented Institution Hackathon member (2021)
+
 
 ## Languages and Tools
 
