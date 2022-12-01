@@ -23,6 +23,7 @@ If you want to contact me, please leave me a message!
 2. KAIST Madcamp 9th generation (2019)
 3. KAIST Startup Support Program 1st generation (2021, Excellence prize - Team Beeble)
 4. Software Oriented Institution Hackathon member (2021)
+5. ROKAF Hackathon member (2022, Excellence prize - Team JarvisFriday)
 
 
 ## ✍️ Languages and Tools
