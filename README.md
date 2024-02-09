@@ -31,10 +31,5 @@ If you want to contact me, please leave me a message!
 
 ## ✍️ Languages and Tools
 
-![image](https://user-images.githubusercontent.com/47997077/123792104-3915b380-d91b-11eb-82ed-efd907f46f0c.png)
-![image](https://user-images.githubusercontent.com/47997077/123792126-3dda6780-d91b-11eb-8e1e-7fdb4173d6ce.png)
-![image](https://user-images.githubusercontent.com/47997077/123792158-47fc6600-d91b-11eb-8899-0a32b613f0e0.png)
-![image](https://user-images.githubusercontent.com/47997077/123792181-4e8add80-d91b-11eb-9f14-3c99ab813bd5.png)
-![image](https://user-images.githubusercontent.com/47997077/123792194-52b6fb00-d91b-11eb-8024-52d6eefd1daa.png)
-![image](https://user-images.githubusercontent.com/47997077/123792231-5d719000-d91b-11eb-9c1f-fe9ce822649f.png)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 
