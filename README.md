@@ -26,6 +26,7 @@ If you want to contact me, please leave me a message!
 3. KAIST Startup Support Program 1st generation (2021, Excellence prize - Team Beeble)
 4. Software Oriented Institution Hackathon member (2021)
 5. ROKAF Hackathon member (2022, Excellence prize - Team JarvisFriday)
+6. NC SOFT NLP Language model team internship (2023-2024)
 
 
 ## ✍️ Languages and Tools
