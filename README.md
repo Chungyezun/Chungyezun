@@ -15,6 +15,7 @@ If you want to contact me, please leave me a message!
 👨‍💻 All of my projects are available at https://github.com/Chungyezun
 
    My Studies : https://velog.io/@yatsby/posts
+   Huggingface : https://huggingface.co/yatsby
 
  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006482982570)](https://www.facebook.com/profile.php?id=100006482982570)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maple07291@gmail.com)](mailto:maple07291@gmail.com)
