@@ -18,9 +18,7 @@ If you want to contact me, please leave me a message!
    
    Huggingface : https://huggingface.co/yatsby
 
- [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006482982570)](https://www.facebook.com/profile.php?id=100006482982570)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maple07291@gmail.com)](mailto:maple07291@gmail.com)
-   [![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yezun_/)](https://www.instagram.com/yezun_/)
 
 ## 💼 Experience 
 1. KAIST Student Cultural Space Committee Development Team (2019-2021, 7th generation)
