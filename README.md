@@ -1,8 +1,8 @@
 # Hi there 👋
 
-Good day! I am Yezun Chung from South Korea, who is interested in diverse developments (e.g. AI, web, android, ios, games).
+Good day! I am Yezun Chung from South Korea, who is interested in diverse developments (e.g. AI, web, android, ios, games) and researches (NLP, multi-modal, machine-learning).
 
-I'm trying hard to be a passionate and competent developer!
+I'm trying hard to be a passionate and competent researcher!
 
 If you want to contact me, please leave me a message!
 
