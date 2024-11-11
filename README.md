@@ -8,7 +8,7 @@ If you want to contact me, please leave me a message!
 
 ## 👓 About me
 
-👯 I’m looking to collaborate on any passionate developers!
+👯 I’m looking to collaborate on any passionate researchers and developers!
 
 📫 How to reach me maple0729@kaist.ac.kr
 
