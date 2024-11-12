@@ -35,4 +35,4 @@ If you want to contact me, please leave me a message!
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={maple0729})](https://solved.ac/{maple0729})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=maple0729)](https://solved.ac/maple0729)
